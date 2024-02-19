@@ -1,8 +1,6 @@
 # Fuzzer
 How to use it:
 ### Step 1
-
-### Step 2
 ```py
 python3 fuzzer.py http://192.X.X.X/ diccionario.txt
 ```
